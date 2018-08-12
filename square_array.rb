@@ -1,6 +1,8 @@
 def square_array(array)
   # your code here
-  square_array.each |element| do
+  
+  return_array = []
+  array.each |num| do
     puts "The square of each is #{array*array}"
   end
 end
