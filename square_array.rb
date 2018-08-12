@@ -6,6 +6,6 @@ def square_array(array)
     return_array.push num*num
     
   end
+return_array
 end
 
-return_array
